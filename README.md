@@ -138,23 +138,22 @@ Tracks business growth through:
 ## 📷 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](Images/Overview.png)
+![Overview](Images/Overview.jpg)
 
-### Sales Analysis Dashboard
-![Sales](Images/Sales.png)
+### Sales Dashboard
+![Sales](Images/Sales.jpg)
 
-### Product Analysis Dashboard
-![Products](Images/Products.png)
+### Products Dashboard
+![Products](Images/Products.jpg)
 
-### Regional Analysis Dashboard
-![Regions](Images/Regions.png)
+### Regions Dashboard
+![Regions](Images/Regions.jpg)
 
-### Customer Analysis Dashboard
-![Customers](Images/Customers.png)
+### Customers Dashboard
+![Customers](Images/Customers.jpg)
 
-### Trend Analysis Dashboard
-![Trends](Images/Trends.png)
-
+### Trends Dashboard
+![Trends](Images/Trends.jpg)
 ---
 
 ## 📁 Repository Structure
