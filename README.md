@@ -188,6 +188,6 @@ Adidas-Sales-Analytics-Dashboard/
 
 ## 👨‍💻 Author
 
-**Sanju**
+**Sanjay P Nambiar**
 
 If you found this project useful, feel free to ⭐ the repository and connect with me on LinkedIn.
